@@ -1,56 +1,36 @@
-# Estudos em IA e Machine Learning
+# Estudos de Modelos de IA
 
-Este repositório contém uma coleção de notebooks, códigos e projetos relacionados aos meus estudos em Inteligência Artificial (IA) e Machine Learning (ML). A maioria dos projetos foi desenvolvida no ambiente do Google Colab.
+Este repositório contém os meus estudos e experimentos com modelos de IA. Aqui, estou me aventurando em diferentes abordagens e aprendendo sobre as nuances desses modelos.
 
-## Organização do Repositório
+## Objetivo
 
-- **Datasets**: Esta pasta contém os Datasets e arquivos utilizados nos notebooks.
+O objetivo deste repositório é documentar o meu progresso e compartilhar o conhecimento adquirido ao longo da minha formação em IA. Estou explorando diferentes técnicas, algoritmos e frameworks para aprimorar minhas habilidades nessa área.
 
-- **Notebooks**: Contém os notebooks Jupyter (.ipynb) de diversos projetos e estudos em IA e ML. .
+## Conteúdo
+
+Neste repositório, você encontrará:
+
+- Notebooks com implementações de modelos de IA
+- Conjuntos de dados utilizados nos experimentos
 
 ## Tecnologias Utilizadas
 
 - Python
+- TensorFlow
+- PyTorch
 - Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Google Colab
 
+## Modelos
 
-## Contato
+- Árvores de Decisão
+- Regressão Linear
+- Regressão Logistica
+- Regressão Polinomial 
+- Regressão Multipla 
+- Kmeans
+- Naive Bayes
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, sinta-se à vontade para abrir uma issue ou me contatar diretamente em [luizazevedo3212@hotmail.com](mailto:seu-email@exemplo.com).
+## Aviso Legal
 
----
-
-**Nota:** Este repositório é destinado principalmente para fins educacionais e pessoais.
-
-# Studies in AI and Machine Learning
-
-This repository contains a collection of notebooks, codes and projects related to my studies in Artificial Intelligence (AI) and Machine Learning (ML). Most of the projects were developed in the Google Colab environment.
-
-## Repository Organization
-
-- **Datasets**: This folder contains the Datasets and files used in the notebooks.
-
-- **Notebooks**: Contains Jupyter notebooks (.ipynb) from various projects and studies in AI and ML. .
-
-## Technologies Used
-
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib/Seaborn
-- Google Colab
-
-
-## Contact
-
-If you have any questions, suggestions or just want to get in touch, feel free to open an issue or contact me directly at [luizazevedo3212@hotmail.com](mailto:seu-email@exemplo.com).
-
----
-
-**Note:** This repository is primarily intended for educational and personal purposes.
+Este repositório é apenas para fins educacionais e de estudo. Os modelos de IA aqui apresentados podem não ser adequados para uso em produção. Certifique-se de entender as implicações éticas e legais antes de aplicar qualquer modelo em um ambiente real.
 
